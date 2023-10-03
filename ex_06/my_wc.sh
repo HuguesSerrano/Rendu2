@@ -1,2 +1,3 @@
-dftyj
-sdcv
+#!/bin/bash
+
+wc -w $1
